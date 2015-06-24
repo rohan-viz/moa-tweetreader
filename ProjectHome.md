@@ -1,0 +1,1 @@
+**MOA-TweetReader** reads and converts tweets from the Twitter Streaming API to [MOA](http://code.google.com/p/moa/) (Massive Online Analysis) instances, so that it is possible to perform data stream mining with them.
